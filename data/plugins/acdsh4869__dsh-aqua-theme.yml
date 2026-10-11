@@ -1,5 +1,5 @@
-url: https://github.com/acdsh4869/DSH-Transparent-UI-Plugin
-name: acdsh4869/DSH-Transparent-UI-Plugin
+url: https://github.com/acdsh4869/dsh-aqua-theme
+name: acdsh4869/dsh-aqua-theme
 category: theme
 description:
   en: 'Aqua glassmorphism theme for the DSH Web UI, adapted to DSH v0.2.x and desktop v0.22.3+: the header, sidebar, composer, stats line and trajectory view become frosted glass panes over a live WebGL fluid board or an image/video wallpaper, with mica and compatibility layouts, adjustable blur, frost, hue and brightness, marine decorations (particle whale, fish, mesh, cursor glow), a one-click reset-to-defaults button, and a master switch whose off state restores the stock UI exactly; adapted from WYH66666666''s original (0.1.x) and du-u-uck''s 0.1.1-rc.2 port.'
